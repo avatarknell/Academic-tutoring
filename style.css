@@ -346,3 +346,9 @@ a:hover {
 .form-group button:hover {
     background-color: #0056b3;
 }
+.payment-img{
+    width: 100px;
+}
+#payment-details div span{
+    font-size: 18px;
+}
